@@ -1,5 +1,4 @@
 
-Here's a GitHub repository description for your project:
 
 Augmented Reality Navigation App
 Welcome to the Augmented Reality Navigation App repository! This project was developed as part of the STAR-PNT internship at IIT Tirupati Technological Innovation Hub. The app aims to provide users with AR-based navigation, guiding them to predefined points by overlaying digital directions on the real world.
