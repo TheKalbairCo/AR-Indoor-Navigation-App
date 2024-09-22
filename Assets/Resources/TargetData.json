@@ -1,0 +1,159 @@
+{
+	"TargetList": [
+		{
+			"Name": "Startup Room",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 4.65,
+				"y": 0.00,
+				"z": 4.45
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Project Director's Cabin",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 2.57,
+				"y": 0.00,
+				"z": 4.14
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bathroom",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -0.74,
+				"y": 0.00,
+				"z": 4.71
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Lift",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "GNSS APPL LAB",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 4.65,
+				"y": 0.0,
+				"z": 4.067
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Admin Office",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 1.95,
+				"y": 0.0,
+				"z": 4.52
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Lab 1",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -0.84,
+				"y": 0.0,
+				"z": 3.77
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Lab 2",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -0.85,
+				"y": 0.0,
+				"z": 4.71
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Lab 3",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 4.65,
+				"y": 0.0,
+				"z": 4.067
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Cafeteria",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -0.88,
+				"y": 0.0,
+				"z": 1.593
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Meeting Room 1 & 2",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -0.85,
+				"y": 0.0,
+				"z": 2.10
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		}
+
+	]
+}
